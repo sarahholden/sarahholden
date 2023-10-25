@@ -26,5 +26,6 @@
 
 
 - 👩🏻‍💻 I’m currently **available for hire**
+- View My Portfolio: <a href="https://sarahholden.studio/">sarahholden.studio</a>
 - 📫 How to reach me: <a href="mailto:hello@sarahholden.studio">hello@sarahholden.studio</a>
 
