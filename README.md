@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarah Holden</h1>
-<h3 align="center" style="width: 60%; margin: 2rem auto 2.5rem;">10+ years professional experience as a software engineer</h3>
+<h3 align="center" style="width: 60%; margin: 2rem auto 2.5rem;">Software Engineer</h3>
+<p>Hi, I'm Sarah, a detail-oriented software engineer. With over a decade of professional experience, I've brought numerous customer-facing apps and websites to life, all while maintaining a focus on functionality and ensuring a smooth, intuitive customer experience.</p>
+
+<p>My programming approach is driven by both my inherent creativity and analytical thinking. Problem-solving and debugging are tackled with a solution-oriented mindset, and my natural creativity consistently motivates me to discover fresh approaches to tasks, and to hone the automation of workflows.</p>
+
+<p style="margin-bottom: 4rem;">Currently, I am on the lookout for opportunities where I can apply and further enhance my technical expertise.</p>
 
 - 👩🏻‍💻 I’m currently **available for hire**
 - ✨ I specialize in **React, Typescript, Next.js, Node**
@@ -21,9 +26,3 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarahholden" alt="sarahholden" /></a> </p>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahholden&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sarah Holden's Github Stats">
