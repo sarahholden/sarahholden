@@ -21,11 +21,13 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 <br/>
-<br/>
+
 
 
 
 - 👩🏻‍💻 I’m currently **available for hire**
 - View My Portfolio: <a href="https://sarahholden.studio/">sarahholden.studio</a>
 - 📫 How to reach me: <a href="mailto:hello@sarahholden.studio">hello@sarahholden.studio</a>
+
+<br/><br/><br/>
 
