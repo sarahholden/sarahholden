@@ -3,7 +3,7 @@
 <br/>
 <p>Hi, I'm Sarah, a detail-oriented software engineer. With over a decade of professional experience, I've brought numerous customer-facing apps and websites to life, all while maintaining a focus on functionality and ensuring a smooth, intuitive customer experience.</p>
 
-<p>My programming approach is driven by both my inherent creativity and analytical thinking. Problem-solving and debugging are tackled with a solution-oriented mindset, and my natural creativity consistently motivates me to discover fresh approaches to tasks, and to hone the automation of workflows.</p>
+<p>My programming approach is driven by both creativity and analytical thinking. Problem-solving and debugging are tackled with a solution-oriented mindset, and my natural creativity consistently motivates me to discover fresh approaches to tasks, and to hone the automation of workflows.</p>
 
 <p>Currently, I am on the lookout for opportunities where I can apply and further enhance my technical expertise.</p>
 
