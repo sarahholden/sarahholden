@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah Holden</h1>
-<h3 align="center" style="width: 60%; margin: 2rem auto 2.5rem;">Software Engineer</h3>
+<h3 align="center" style="width: 60%; margin: 2rem auto 2.5rem;">Front-End Software Engineer</h3>
 <br/>
 <p>Hi, I'm Sarah, a detail-oriented software engineer. With over a decade of professional experience, I've brought numerous customer-facing apps and websites to life, all while maintaining a focus on functionality and ensuring a smooth, intuitive customer experience.</p>
 
